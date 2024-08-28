@@ -1,1 +1,0 @@
-# BE-Cars-Django
