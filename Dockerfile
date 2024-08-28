@@ -20,3 +20,6 @@ EXPOSE 8000
 
 # Run the application using gunicorn for production
 CMD ["gunicorn", "--bind", "0.0.0.0:8000", "cars.wsgi:application"]
+
+
+# jdfhksjdhfkskd
